@@ -1,0 +1,2 @@
+# ZPCABasicAnimation
+本Demo主要对比了Quartz2D、CALayer、CAAnimation（核心动画）的主要用途以及如何利用CABasicAnimation类来制作动画。
